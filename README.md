@@ -1,5 +1,4 @@
- Emoji Face Expression Overlay
-
+Face-Emoji-Swap
 A fun real-time Python project that detects facial expressions using MediaPipe's Face Detection and Face Mesh modules, and overlays appropriate emojis on the user's face based on their mouth openness (MAR - Mouth Aspect Ratio).
 
 ![demo](demo.gif)
